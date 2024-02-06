@@ -65,9 +65,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-NG&layout=compact&langs_count=8&card_width=320"&theme=neon />
 </a>
   <br/>
-  <a>
-  <img width=325 align="center src="https://github-readme-stats.vercel.app/api?username=shshab-NG&show_icons=true&theme=radical" />
-      <a/>
+ 
     <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=shahab-NG&show_icons=true&theme=neon"
