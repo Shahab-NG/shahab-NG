@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.demolab.com/?user=shahab-NG&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=shahab-NG&theme=neon&border_radius=5.7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   <img width=390 src="https://github-readme-stats-shahab-NG.vercel.app/api?username=shahab-NG&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-shahab-NG.vercel.app/api/top-langs/?
