@@ -63,7 +63,7 @@
   <img width=325 align="center src="https://github-readme-stats.vercel.app/api?username=shshab-NG&show_icons=true&theme=radical" />
     <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shahab-NG&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=shahab-NG&show_icons=true&theme=neon"
     media="(prefers-color-scheme: dark)"
   />
   <source
