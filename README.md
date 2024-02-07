@@ -77,8 +77,10 @@
   <img src="https://github-readme-stats.shahab-NG.vercel.app/api?username=shahab-NG&show_icons=true" />
 </picture>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+ <source
+ srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon"
+  <img src="https://github.com/anuraghazra/github-readme-stats/>
+     
 <br/><br/>
 <hr/>
 
