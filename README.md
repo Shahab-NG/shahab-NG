@@ -77,9 +77,9 @@
   <img src="https://github-readme-stats.shahab-NG.vercel.app/api?username=shahab-NG&show_icons=true" />
 </picture>
 </div> 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
-     </div>
+    
 <br/><br/>
 <hr/>
 
