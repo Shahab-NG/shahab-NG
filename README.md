@@ -62,7 +62,7 @@
 
   <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-NG&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=neon&layout=pie)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-NG&layout=donut)](https://github.com/shahab-NG/github-readme-stats&theme=neon&layout=pie)
 
    
  <picture>
