@@ -82,7 +82,7 @@
 </div>
 
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-NG&layout=donut)](https://github.com/shahab-NG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
 <br/>
