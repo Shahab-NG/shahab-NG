@@ -62,7 +62,7 @@
 
   <br/>
 
-  <img width=390 src="https://github-readme-stats.shahab-NG.vercel.app/api/top-langs/?username=salesp07&layout=donut&theme=neon"/>
+  <img width=390 src="https://github-readme-vercel.app/api/top-langs/?username=salesp07&layout=donut&theme=neon"/>
 <img width=390 src=" https://github.com/shahab-NG/github-readme-stats&theme=neon"/>
 
 
