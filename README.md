@@ -70,7 +70,7 @@
    
  <picture>
   <source
-    srcset="https://github-readme-stats.shahab-NG.vercel.app/api?username=shahab-NG&show_icons=true&theme=neon"
+    srcset="https://github-readme-stats.vercel.app/api?username=shahab-NG&show_icons=true&theme=neon"
     media="(prefers-color-scheme: dark)"
   />
   <source
