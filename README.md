@@ -76,9 +76,9 @@
   />
   <img src="https://github-readme-stats.shahab-NG.vercel.app/api?username=shahab-NG&show_icons=true" />
 </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon"/>
 </div> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon"/>
 
     
 <br/><br/>
