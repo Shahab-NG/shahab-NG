@@ -66,7 +66,7 @@
   <br/>
 
   
-   <img width=325 align="center src="https://github-readme-stats.vercel.app/api?username=shshab-NG&show_icons=true&theme=radical" />
+
    
     <picture>
   <source
