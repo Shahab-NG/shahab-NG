@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **HISCOOL Project**
  
- 🌱 I’m currently learning **TypeScrept, AWS**
+ 🌱 I’m currently learning **TypeScrept, 
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/shahab-NG/shahab-NG/issues)**
 
