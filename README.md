@@ -16,8 +16,6 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/shahab-NG/shahab-NG/issues)**
 
-
-
  </div>
  
 <div align="center"> 
