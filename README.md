@@ -5,7 +5,6 @@
 <h3 align="center">A passionate software developer from Germany </h3>
 
 <br/>
-
 <div align="center">
  
  🔭 I’m currently working on **HISCOOL Project**
