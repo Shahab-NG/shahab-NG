@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **HISCOOL Project**
+ 🔭 I’m currently working on **HISCHOOL Project**
  
  🌱 I’m currently learning **TypeScrept, 
 
