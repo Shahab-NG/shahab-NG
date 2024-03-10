@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **TypeScrept, 
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/shahab-NG/shahab-NG/issues)**
+💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/shahab-NG/shahab-NG/issues)**
 
  </div>
  
