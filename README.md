@@ -52,12 +52,6 @@
 
 
   <br/>
-
-
-
-
-
-
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=shahab-NG&show_icons=true&theme=neon"
