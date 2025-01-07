@@ -8,7 +8,8 @@
  🔭 I’m currently working on ** Level Up ** Project**
 
 
- 🌱 I’m currently learning **TypeScrept, 
+
+ 🌱 I’m currently learning **Next.js, 
 <br/>
 <br/>
 💬 Ask me about **Node.js, React, Mongodb... or anything [here](https://github.com/shahab-NG/shahab-NG/issues)**
